@@ -19,6 +19,6 @@ require.config({
     'leaflet': '../bower_components/leaflet/dist/leaflet-src',
     'mpConfig': '../bower_components/minnpost-styles/dist/minnpost-styles.config',
     'mpStorymaps': '../bower_components/minnpost-styles/dist/minnpost-styles.storymaps',
-    'minnpost-green-line-story-map': 'app'
+    'minnpost-green-line-story-map-part-2': 'app'
   }
 });

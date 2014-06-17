@@ -33,8 +33,8 @@ All commands are assumed to be on the [command line](http://en.wikipedia.org/wik
 
 Get the code for this project and install the necessary dependency libraries and packages.
 
-1. Check out this code with [Git](http://git-scm.com/): `git clone https://github.com/MinnPost/minnpost-green-line-story-map.git`
-1. Go into the template directory: `cd minnpost-green-line-story-map`
+1. Check out this code with [Git](http://git-scm.com/): `git clone https://github.com/MinnPost/minnpost-green-line-story-map-part-2.git`
+1. Go into the template directory: `cd minnpost-green-line-story-map-part-2`
 1. Install NodeJS packages: `npm install`
 1. Install Bower components: `bower install`
 

@@ -1,13 +1,13 @@
 {
-  "name": "minnpost-green-line-story-map",
+  "name": "minnpost-green-line-story-map-part-2",
   "version": "0.0.0",
   "main": "index.html",
-  "homepage": "https://github.com/minnpost/minnpost-green-line-story-map",
+  "homepage": "https://github.com/minnpost/minnpost-green-line-story-map-part-2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/minnpost/minnpost-green-line-story-map"
+    "url": "https://github.com/minnpost/minnpost-green-line-story-map-part-2"
   },
-  "bugs": "https://github.com/minnpost/minnpost-green-line-story-map/issues",
+  "bugs": "https://github.com/minnpost/minnpost-green-line-story-map-part-2/issues",
   "license": "MIT",
   "author": {
     "name": "MinnPost",

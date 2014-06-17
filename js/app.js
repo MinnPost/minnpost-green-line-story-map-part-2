@@ -1,12 +1,12 @@
 /**
- * Main application file for: minnpost-green-line-story-map
+ * Main application file for: minnpost-green-line-story-map-part-2
  *
  * This pulls in all the parts
  * and creates the main object for the application.
  */
 
 // Create main application
-define('minnpost-green-line-story-map', [
+define('minnpost-green-line-story-map-part-2', [
   'jquery', 'underscore', 'storymap',
   'mpConfig', 'mpStorymaps', 'helpers',
   'text!templates/application.underscore',
@@ -145,9 +145,9 @@ define('minnpost-green-line-story-map', [
 
     // Default options
     defaultOptions: {
-      projectName: 'minnpost-green-line-story-map',
+      projectName: 'minnpost-green-line-story-map-part-2',
       remoteProxy: null,
-      el: '.minnpost-green-line-story-map-container',
+      el: '.minnpost-green-line-story-map-part-2-container',
       availablePaths: {
         local: {
 
@@ -158,12 +158,12 @@ define('minnpost-green-line-story-map', [
         build: {
           css: [
             '//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css',
-            'dist/minnpost-green-line-story-map.libs.min.css',
-            'dist/minnpost-green-line-story-map.latest.min.css'
+            'dist/minnpost-green-line-story-map-part-2.libs.min.css',
+            'dist/minnpost-green-line-story-map-part-2.latest.min.css'
           ],
           ie: [
-            'dist/minnpost-green-line-story-map.libs.min.ie.css',
-            'dist/minnpost-green-line-story-map.latest.min.ie.css'
+            'dist/minnpost-green-line-story-map-part-2.libs.min.ie.css',
+            'dist/minnpost-green-line-story-map-part-2.latest.min.ie.css'
           ],
           images: 'dist/images/',
           data: 'dist/data/'
@@ -171,15 +171,15 @@ define('minnpost-green-line-story-map', [
         deploy: {
           css: [
             '//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css',
-            'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map/minnpost-green-line-story-map.libs.min.css',
-            'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map/minnpost-green-line-story-map.latest.min.css'
+            'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map-part-2/minnpost-green-line-story-map-part-2.libs.min.css',
+            'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map-part-2/minnpost-green-line-story-map-part-2.latest.min.css'
           ],
           ie: [
-            'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map/minnpost-green-line-story-map.libs.min.ie.css',
-            'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map/minnpost-green-line-story-map.latest.min.ie.css'
+            'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map-part-2/minnpost-green-line-story-map-part-2.libs.min.ie.css',
+            'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map-part-2/minnpost-green-line-story-map-part-2.latest.min.ie.css'
           ],
-          images: 'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map/images/',
-          data: 'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map/data/'
+          images: 'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map-part-2/images/',
+          data: 'https://s3.amazonaws.com/data.minnpost/projects/minnpost-green-line-story-map-part-2/data/'
         }
       }
     },
@@ -270,7 +270,7 @@ define('minnpost-green-line-story-map', [
 /**
  * Run application
  */
-require(['jquery', 'minnpost-green-line-story-map'], function($, App) {
+require(['jquery', 'minnpost-green-line-story-map-part-2'], function($, App) {
   $(document).ready(function() {
     var app = new App();
   });
