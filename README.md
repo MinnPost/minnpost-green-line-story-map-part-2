@@ -1,8 +1,10 @@
-# Minnpost Green Line Story Map (Part I)
+# Minnpost Green Line Story Map (Part II)
 
-Strolling the sights of the Green Line with Andy Sturdevant. Uses [Story Map](http://storymap.knightlab.com/).
+Strolling the sights of the Green Line with Andy Sturdevant (part II). Uses [Story Map](http://storymap.knightlab.com/).
 
-You can see this project in action at [Hockey, hip-hop, and other Green Line highlights](http://www.minnpost.com/stroll/2014/06/hockey-hip-hop-and-other-green-line-highlights).
+You can see this project in action at []().
+
+First part is here: [Hockey, hip-hop, and other Green Line highlights](http://www.minnpost.com/stroll/2014/06/hockey-hip-hop-and-other-green-line-highlights).
 
 *Unless otherwise noted, MinnPost projects on [Github](https://github.com/minnpost) are story-driven and meant for transparency sake and not focused on re-use.  For a list of our more reusable projects, go to [code.minnpost.com](http://code.minnpost.com).*
 
