@@ -2,7 +2,7 @@
 
 Strolling the sights of the Green Line with Andy Sturdevant (part II). Uses [Story Map](http://storymap.knightlab.com/).
 
-You can see this project in action at []().
+You can see this project in action at [Green Line treasures from Lexington to Lowertown](http://www.minnpost.com/stroll/2014/06/green-line-treasures-lexington-lowertown).
 
 First part is here: [Hockey, hip-hop, and other Green Line highlights](http://www.minnpost.com/stroll/2014/06/hockey-hip-hop-and-other-green-line-highlights).
 
